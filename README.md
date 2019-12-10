@@ -1,5 +1,7 @@
 # Curso de Deep Learning con Platzi
 
+![](https://i.imgur.com/Mzyp6li.jpg)
+
 Este repositorio contiene los materiales escritos del curso de Platzi [Deep Learning con Pytorch](https://platzi.com/cursos/deep-learning/).
 
 En el encontraras:
@@ -15,7 +17,9 @@ El curso se articula en 4 partes:
 3. Como aprenden las Redes Neuronales Profundas.
 4. Proyecto practico: Transferencia de estilo con CycleGAN.
 
-La parte 2 es codigo muy hands-on, mientras que la parte 3 aporta elementos teoricos de aprendizaje pero de manera pragmatica. La parte 4 corresponde a la implementacion de una red moderna y compleja, para lograr una aplicacion practica que es darle un look de verano a imagenes de invierno. CycleGAN es muy versatil, y en las slides podras ver todas las otras aplicaciones que puedes hacer con esta red!
+La parte 2 es codigo muy hands-on, mientras que la parte 3 aporta elementos teoricos de aprendizaje pero de manera pragmatica. 
+
+La parte 4 es un proyecto practico que corresponde a la implementacion de una red moderna y compleja, para lograr darle un look de verano a imagenes de invierno. CycleGAN es muy versatil, y en las slides podras ver todas las otras aplicaciones que puedes hacer con esta red!
 
 Adicionalmente ire agregando algunos materiales complementarios que te pueden ayudar en tu camino a ser experto en Deep Learning.
 
