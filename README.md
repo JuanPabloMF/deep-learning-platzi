@@ -1,4 +1,4 @@
-# Curso de Deep Learning con Platzi
+# Curso de Deep Learning con Pytorch
 
 ![](https://i.imgur.com/Mzyp6li.jpg)
 
